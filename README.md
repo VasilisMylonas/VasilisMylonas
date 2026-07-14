@@ -1,16 +1,15 @@
-## Hi there 👋
+# Hi, I'm Vasilis 👋
 
-<!--
-**VasilisMylonas/VasilisMylonas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+> Digital Design Engineer · PCB Design Engineer · Embedded Hardware Engineer
 
-Here are some ideas to get you started:
+Computer engineering M.Eng. student focused on digital design, PCB design, and embedded hardware — from RTL and PCB layout to firmware and low-power wireless systems.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔧 What I'm working on
+- **Electronic Engineer** — ELKE — SmartShoe: Gait Monitoring and Analysis System
+- **DSP Hardware Generator** — High-performance DSP hardware generator in Verilog with Python verification.
+
+### 🧰 Skills
+**PCB Design:** KiCAD, Altium Designer, LTSpice   ·   **Digital Design:** Verilog, SystemVerilog, Yosys, OpenLane   ·   **Embedded:** ESP32, FreeRTOS, BLE, USB 2.0 FS, UART, I2C, SPI/QSPI
+
+### 📫 Reach me
+[Website](https://vasilismylonas.com) · [LinkedIn](https://linkedin.com/in/vasilis-mylonas) · [Email](mailto:vasilismylonas@protonmail.com) · [CV (PDF)](https://vasilismylonas.com/CV.pdf)
